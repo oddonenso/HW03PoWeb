@@ -1,0 +1,223 @@
+.Group li::before {
+    content: " ";
+    background-image: url(Images/ball.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}
+.Group li {
+    list-style-type: none;
+}
+.russia li::before {
+    content: " ";
+    background-image: url(Images/Flag_of_Russia.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}
+.russia li{
+    list-style-type: none;
+}
+.poland li:before {
+    content: " ";
+    background-image: url(Images/poland.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}
+.poland li {
+    list-style-type: none;
+}
+.czech li:before {
+    content: " ";
+    background-image: url(Images/czech.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}
+.czech li {
+    list-style-type: none;
+}
+
+.greece li:before {
+    content: " ";
+    background-image: url(Images/greece.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}
+.greece li {
+    list-style-type: none;
+}
+.germany li::before {
+    content: " ";
+    background-image: url(Images/Flag_of_Germany.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+}
+.germany li {
+    list-style: none;
+}
+.niderland li::before {
+    content: " ";
+    background-image: url(Images/niderland.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+}
+.niderland li {
+    list-style: none;
+}
+.portugal li::before {
+    content: " ";
+    background-image: url(Images/portugal.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+}
+
+.portugal li {
+    list-style: none;
+}
+.dania li::before {
+    content: " ";
+    background-image: url(Images/dania.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+}
+.dania li {
+    list-style: none;
+}
+.spanish li::before {
+    content: " ";
+    background-image: url(Images/Flag_of_Spain.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+}
+.spanish li {
+    list-style: none;
+}
+.italy li::before {
+    content: " ";
+    background-image: url(Images/italy.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+}
+.italy li {
+    list-style: none;
+}
+.horvatia li::before {
+    content: " ";
+    background-image: url(Images/horvat.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+}
+.horvatia li {
+    list-style: none;
+}
+.irland li::before {
+    content: " ";
+    background-image: url(Images/irland.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+}
+.irland li {
+    list-style: none;
+}
+.ukraine li::before {
+    content: " ";
+    background-image: url(Images/ukrain.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+}
+.ukraine li{
+    list-style: none;
+}
+.england li::before {
+    content: " ";
+    background-image: url(Images/Flag_of_England.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+}
+.england li{
+    list-style: none;
+}
+.france li::before {
+    content: " ";
+    background-image: url(Images/france.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+}
+.france li{
+    list-style: none;
+}
+.sweden li::before {
+    content: " ";
+    background-image: url(Images/Flag_of_Sweden.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+}
+.sweden li{
+    list-style: none;
+}
